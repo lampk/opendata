@@ -1,0 +1,12 @@
+Package: opendata
+Type: Package
+Title: Collection of open data and tools for exploring data
+Version: 0.1.0
+Author: Phung Khanh Lam
+Maintainer: Phung Khanh Lam <phungkhanhlam@gmail.com>
+Description: More about what it does (maybe more than one line)
+    Use four spaces when indenting paragraphs within the Description.
+License: GPL-2
+Encoding: UTF-8
+LazyData: true
+RoxygenNote: 6.0.0

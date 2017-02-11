@@ -1,0 +1,101 @@
+rank,hospital,quality_score,satisfactory_score,type
+1,BV Nhân Dân 115,4.28,4.96,BV Thành ph_
+2,BV Nhân Dân Gia __nh,4.09,3.98,BV Thành ph_
+3,Vi_n Y D__c h_c dân t_c,4.06,4.84,BV Thành ph_
+4,BV Nhi __ng 1,4.01,4.21,BV Thành ph_
+5,BV T_ D_,3.94,4.46,BV Thành ph_
+6,BV Hùng V__ng,3.9,4.55,BV Thành ph_
+7,BV B_nh Nhi_t __i,3.88,4.41,BV Thành ph_
+8,BV Truy_n máu huy_t h_c,3.79,4.18,BV Thành ph_
+8,BV Y h_c c_ truy_n,3.79,4.18,BV Thành ph_
+10,BV PHCN - _i_u tr_ BNN,3.78,4.9,BV Thành ph_
+11,BV Tr_ng V__ng,3.73,4.61,BV Thành ph_
+12,BV Ung b__u,3.64,4,BV Thành ph_
+13,BV M_t,3.6,3.96,BV Thành ph_
+13,BV Bình Dân,3.6,4.41,BV Thành ph_
+15,Vi_n Tim TP.HCM,3.56,4.51,BV Thành ph_
+16,BV Nhi __ng 2,3.55,4.7,BV Thành ph_
+17,BV Tai M_i H_ng,3.47,4.36,BV Thành ph_
+18,BV Ph_m Ng_c Th_ch,3.4,4.1,BV Thành ph_
+19,BV R_ng H_m M_t,3.34,4.53,BV Thành ph_
+20,BV Da Li_u TP.HCM,3.29,4,BV Thành ph_
+21,BV Nguy_n Trãi,3.28,3.83,BV Thành ph_
+22,BV Nguy_n Tri Ph__ng,3.22,3.66,BV Thành ph_
+23,BV Ch_n th__ng ch_nh hình,3.16,3.3,BV Thành ph_
+23,BV Nhân Ái,3.16,,BV Thành ph_
+25,BV _KKV C_ Chi,3.13,3.83,BV Thành ph_
+25,BV An Bình,3.13,4.81,BV Thành ph_
+27,BV _a khoa Sài Gòn,3.09,4.31,BV Thành ph_
+28,BV _KKV Th_ __c,2.82,3.86,BV Thành ph_
+29,BV _KKV Hóc Môn,2.68,4.03,BV Thành ph_
+30,BV Tâm Th_n TP.HCM,2.52,3.63,BV Thành ph_
+31,Khu _i_u tr_ phong,2.46,,BV Thành ph_
+1,BV Qu_n Th_ __c,3.99,4.51,BV Qu_n - huy_n
+2,BV Qu_n Tân Phú,3.47,4.08,BV Qu_n - huy_n
+3,BV Qu_n Gò V_p,3.32,4.16,BV Qu_n - huy_n
+4,BV Qu_n 11,3.24,4.73,BV Qu_n - huy_n
+5,BV Qu_n 2,3.2,3.78,BV Qu_n - huy_n
+6,BV Qu_n 4,3.18,4.9,BV Qu_n - huy_n
+7,BV Qu_n Bình Th_nh,3.08,4.94,BV Qu_n - huy_n
+8,BV Huy_n Bình Chánh,3.04,4,BV Qu_n - huy_n
+9,BV Qu_n 5,3.02,4.4,BV Qu_n - huy_n
+9,BV Qu_n 10,3.02,4.79,BV Qu_n - huy_n
+11,BV Qu_n Tân Bình,2.94,4.23,BV Qu_n - huy_n
+11,BV Qu_n 12,2.94,4.65,BV Qu_n - huy_n
+13,BV Qu_n Bình Tân,2.89,4.13,BV Qu_n - huy_n
+14,BV Huy_n Nhà Bè,2.88,4.45,BV Qu_n - huy_n
+15,BV Huy_n C_ Chi,2.83,4.13,BV Qu_n - huy_n
+16,BV Qu_n 6,2.82,3.99,BV Qu_n - huy_n
+17,BV Qu_n 1,2.81,4.45,BV Qu_n - huy_n
+18,BV Qu_n 7,2.66,3.98,BV Qu_n - huy_n
+19,BV Qu_n 8,2.61,4.73,BV Qu_n - huy_n
+20,BV Huy_n C_n Gi_,2.53,4.28,BV Qu_n - huy_n
+21,BV Qu_n Phú Nhu_n,2.5,4.18,BV Qu_n - huy_n
+22,BV Qu_n 9,2.34,4.56,BV Qu_n - huy_n
+23,BV Qu_n 3,2.09,4.09,BV Qu_n - huy_n
+1,BV _a khoa Hoàn M_ Sài Gòn,4.07,4.43,BV T_ nhân
+2,BV _a khoa qu_c t_ Vinmec Central Park,3.92,,BV T_ nhân
+3,BV Xuyên Á,3.71,4.66,BV T_ nhân
+4,BV FV,3.6,4.65,BV T_ nhân
+5,BV _a khoa V_n H_nh,3.59,4.34,BV T_ nhân
+6,BV Tim Tâm __c,3.54,4.8,BV T_ nhân
+7,BV _a khoa An Sinh,3.53,4.6,BV T_ nhân
+8,BV Ph_ s_n Mê Kông,3.46,4.7,BV T_ nhân
+9,BV Tai M_i H_ng Sài Gòn,3.44,4.26,BV T_ nhân
+10,BV _a khoa M_ __c,3.34,3.79,BV T_ nhân
+11,BV Saigon-ITO Phú Nhu_n,3.28,4.91,BV T_ nhân
+12,BV Tri_u An,3.26,4.78,BV T_ nhân
+13,BV Ph_ s_n qu_c t_ Sài Gòn,3.19,4.5,BV T_ nhân
+13,BV Qu_c t_ City,3.19,4.64,BV T_ nhân
+15,BV qu_c t_ CTCH Sài Gòn,3.16,4.86,BV T_ nhân
+16,BV qu_c t_ Phúc An Khang,3.1,4.29,BV T_ nhân
+17,BV _a khoa H_ng __c III,3.06,4.75,BV T_ nhân
+18,BV qu_c t_ Columbia Asia Gia __nh,2.79,4.1,BV T_ nhân
+19,BV _a khoa qu_c t_ Minh Anh,2.73,4.23,BV T_ nhân
+20,BV th_m m_ EMCAS,2.71,4.36,BV T_ nhân
+21,BV CKPTTM Ng_c Phú,2.71,,BV T_ nhân
+22,BV _a khoa Qu_c Ánh,2.62,4.31,BV T_ nhân
+22,BV Ngo_i Th_n kinh Qu_c T_,2.62,4.79,BV T_ nhân
+24,BV __c Khang,2.6,4.76,BV T_ nhân
+25,BV th_m m_ Kangnam,2.58,,BV T_ nhân
+26,BV _a khoa M_t Sài Gòn,2.55,4.2,BV T_ nhân
+27,BV CK Th_m m_ Vi_t M_,2.53,,BV T_ nhân
+28,BV M_t Cao Th_ng,2.49,4.23,BV T_ nhân
+29,BV Th_m m_ Thanh Vân,2.47,4.81,BV T_ nhân
+30,BV M_t Sài Gòn II,2.44,4.53,BV T_ nhân
+30,BV Gaya Vi_t - Hàn,2.44,4.64,BV T_ nhân
+32,BV PTTHTM Hi_p L_i,2.41,4.95,BV T_ nhân
+33,BV STO Ph__ng _ông,2.32,4.19,BV T_ nhân
+34,BV _a khoa V_ Anh,2.3,4.04,BV T_ nhân
+35,BV M_t KTC Ph__ng Nam,2.29,4.44,BV T_ nhân
+36,BV CKPTTM Á Âu,2.26,4.71,BV T_ nhân
+37,BV _a khoa Tâm Trí Sài Gòn,2.24,4.83,BV T_ nhân
+38,BV _a khoa Tân H_ng,2.21,4.45,BV T_ nhân
+39,BV M_t Vi_t Hàn,2.2,,BV T_ nhân
+40,BV CKPTTM Qu_c t_ Th_o _i_n,2.13,,BV T_ nhân
+41,BV Th_m m_ JW,2.12,,BV T_ nhân
+42,BV Tân S_n Nh_t,2.11,4.36,BV T_ nhân
+43,BV Th_m m_ Kim Hospital,2.08,,BV T_ nhân
+44,BV Th_m m_ Sài Gòn,2.06,,BV T_ nhân
+45,BV Th_m m_ K_ Hòa - Medika,1.74,,BV T_ nhân
+46,BV Th_m m_ AVA V_n Lang,1.29,,BV T_ nhân
